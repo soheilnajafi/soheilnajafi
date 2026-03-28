@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Suhill (Sammy) Najafi
 
-🚀 Java Developer | AI Enthusiast  
+🚀 **Java Developer | AI Enthusiast**
 
-I build AI-powered applications with Java, focusing on real-world integrations like speech-to-text and OpenAI APIs.
+I build AI-powered applications using Java, focusing on real-world integrations like **speech-to-text**, **OpenAI APIs**, and **desktop applications**.
 
 ---
 
@@ -10,7 +10,7 @@ I build AI-powered applications with Java, focusing on real-world integrations l
 
 ### 🎤 AI Voice Assistant (Java)
 
-AI-powered desktop voice assistant with speech-to-text and a chat-style UI.
+AI-powered desktop voice assistant with speech-to-text and chat-style UI.
 
 👉 https://github.com/soheilnajafi/AI-Assistant-Java-Prototype
 
@@ -18,23 +18,23 @@ AI-powered desktop voice assistant with speech-to-text and a chat-style UI.
 
 ## 🛠 Tech Stack
 
-- Java
-- Spring Boot
-- Maven
-- REST APIs
-- OpenAI API
-- Git & GitHub
+* ☕ Java
+* 🌱 Spring Boot
+* 📦 Maven
+* 🌐 REST APIs
+* 🤖 OpenAI API
+* 🧰 Git & GitHub
 
 ---
 
 ## 📈 What I'm Working On
 
-- Improving AI integrations in Java apps  
-- Building real-world backend systems  
-- Learning advanced system design  
+* Improving AI integrations in Java apps
+* Building real-world backend systems
+* Learning advanced system design
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn (add later)
+* LinkedIn (coming soon)
